@@ -1,5 +1,11 @@
-# 💫 About Me:
-💻 I’m currently working on:<br><br>Building TechNova DevOps Pipeline – Automated CI/CD framework using Jenkins, Docker, Terraform, and AWS<br><br>Cloud infrastructure automation and deployment projects<br><br>Improving containerized application deployment strategies<br><br>🤝 I’m looking to collaborate on:<br><br>DevOps & Cloud Automation Projects<br><br>CI/CD Pipeline Development<br><br>Open Source projects related to Kubernetes, Docker, and Infrastructure as Code<br><br>🆘 I’m looking for help with:<br><br>Advanced Kubernetes orchestration<br><br>Production-grade cloud architecture design<br><br>Scaling microservices using cloud-native tools<br><br>📚 I’m currently learning:<br><br>Kubernetes & Helm<br><br>Terraform & Ansible Automation<br><br>AWS DevOps & Cloud Security<br><br>Monitoring tools like Prometheus & Grafana<br><br>💬 Ask me about:<br><br>CI/CD Pipelines (Jenkins, GitHub Actions)<br><br>Docker & Containerization<br><br>AWS Cloud Deployment<br><br>Infrastructure as Code<br><br>DevOps Project Implementation<br><br>⚡ Fun fact:<br><br>I enjoy automating repetitive tasks and turning manual deployments into fully automated pipelines 🚀
+🚀 About Me
+
+💻 Working on DevOps automation & CI/CD pipelines
+☁️ Exploring Cloud technologies (AWS, Docker, Terraform, Jenkins)
+🤝 Open to collaborating on Cloud & DevOps projects
+📚 Currently learning Kubernetes & Infrastructure as Code
+💬 Ask me about CI/CD, Docker, AWS, and Automation
+⚡ Love turning manual tasks into automated workflows 🚀
 
 
 ## 🌐 Socials:
