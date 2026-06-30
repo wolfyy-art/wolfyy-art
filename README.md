@@ -1,4 +1,4 @@
-🚀 About Me
+ About Me
 
 💻 Working on DevOps automation & CI/CD pipelines
 ☁️ Exploring Cloud technologies (AWS, Docker, Terraform, Jenkins)
